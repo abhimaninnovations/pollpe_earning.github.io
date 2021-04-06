@@ -27,6 +27,15 @@
 									</ul>
 								</div>
 								<div class="image filtered span-1-75" data-position="25% 25%">
+									<div style="    position: absolute;
+									z-index: 999999;
+									top: 50%;
+									left: 50%;">
+									<img style="position: relative;
+									width: 100px;
+									height: 40px;
+									margin-left: -47px;" src="images/logo_2x.png" alt="">
+									</div>
 									<img src="https://raw.githubusercontent.com/Jesus-E-Rodriguez/cityscapes-landing-page/88c9b44e3def10ae253dd8d44b717cfa78cca42d/img/city.png" alt="" />
 								</div>
 							</section>
